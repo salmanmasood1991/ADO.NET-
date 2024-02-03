@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\AspnetMicroservices\ConsoleApp2\AdoDataAccess\obj\Debug\netstandard2.0\AdoDataAccess.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\AspnetMicroservices\ConsoleApp2\AdoDataAccess\obj\Debug\netstandard2.0\AdoDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\AspnetMicroservices\ConsoleApp2\AdoDataAccess\obj\Debug\netstandard2.0\AdoDataAccess.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\AspnetMicroservices\ConsoleApp2\AdoDataAccess\obj\Debug\netstandard2.0\AdoDataAccess.AssemblyInfo.cs
+C:\Users\Dell\source\repos\AspnetMicroservices\ConsoleApp2\AdoDataAccess\obj\Debug\netstandard2.0\AdoDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\AspnetMicroservices\ConsoleApp2\AdoDataAccess\bin\Debug\netstandard2.0\AdoDataAccess.deps.json
+C:\Users\Dell\source\repos\AspnetMicroservices\ConsoleApp2\AdoDataAccess\bin\Debug\netstandard2.0\AdoDataAccess.dll
+C:\Users\Dell\source\repos\AspnetMicroservices\ConsoleApp2\AdoDataAccess\bin\Debug\netstandard2.0\AdoDataAccess.pdb
+C:\Users\Dell\source\repos\AspnetMicroservices\ConsoleApp2\AdoDataAccess\obj\Debug\netstandard2.0\AdoDataAccess.dll
+C:\Users\Dell\source\repos\AspnetMicroservices\ConsoleApp2\AdoDataAccess\obj\Debug\netstandard2.0\AdoDataAccess.pdb
